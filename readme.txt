@@ -1,4 +1,1 @@
-aaaaaaaaaaaaaaaaa
-bbbbbbbbbbb
-滴滴答答的滴滴答答的滴滴答答的
-d
+这是一个测试文件
